@@ -493,11 +493,11 @@ body {
     position: relative;
   }
   #left img {
-    width: 70%;
-    height: 45%;
+    width: 80%;
+    height: 40%;
   }
   #left h2 {
-    font-size: 5vw;
+    font-size: 4vw;
   }
   #page4 > h1 {
     padding-bottom: 4vw;
